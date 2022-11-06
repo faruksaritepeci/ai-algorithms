@@ -22,6 +22,8 @@ a    : change algorithm, type the name of the algorithm into the terminal
 
 enter: run the algorithm with current map
 
+Esc  : Exit app
+
 #### Mouse
 
 left click: puts an obstacle
