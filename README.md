@@ -31,11 +31,17 @@ right click: puts/removes starting location, puts/removes ending location, remov
 ### Algorithms
 
 bfs: breadth first search
+
 dfs: depth first search
+
 ids: iterative deepening search
+
 best_first: Greedy search based on heuristic (Manhattan distance)
+
 astar: A* Star search based on heuristic + real cost
+
 robotpath: an A* Star search that also takes into account wall distance for heuristic to find a path away from walls
+
 ### Example Map
 ![alt text](images/maze3.png)
 ### Example Solution
